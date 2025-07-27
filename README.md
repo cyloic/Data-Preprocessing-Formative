@@ -254,17 +254,4 @@ python Task6_Final_Demo.py
 4. **Scalable Architecture**: Modular design allows easy model updates
 5. **User Experience**: Interactive command-line interface for testing
 
-
-## 📞 Support
-
-For questions about reproducing results or running the system:
-1. Check that all required packages are installed
-2. Ensure you're running from the correct directory
-3. Verify that model files exist in the `models/` folder
-4. Run the system demonstration script for quick testing
-
 ---
-
-**🎓 Academic Project**: Data Preprocessing Formative Assessment  
-**📅 Date**: 2025  
-**🔗 Repository**: Data-Preprocessing-Formative
