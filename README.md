@@ -89,7 +89,7 @@ jupyter notebook notebooks/datamerge.ipynb
 jupyter notebook notebooks/Task_2.ipynb
 
 # 3. Train all models
-jupyter notebook notebooks/Group_5_Formative_2.ipynb
+jupyter notebook notebooks/Models.ipynb
 ```
 
 ### 3. Interactive Mode
